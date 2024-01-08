@@ -10,5 +10,9 @@
     "http"
   ],
   "author": "Alexander O'Toole",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EnderAO737/codex-web-server"
+  }
 }
