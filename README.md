@@ -14,9 +14,9 @@ After installation, you can start using the Codex Web Server in your project. Fi
 
 > const codex = require('codex-web-server');
 
-Next, create a server instance:
+Then, instantiate a server object and specify if you want to enable compression:
 
-> const server = new codex();
+> const server = new codex(true);
 
 ## Routing
 
