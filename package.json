@@ -14,5 +14,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/EnderAO737/codex-web-server"
-  }
+  },
+  "files": [index.js]
 }
