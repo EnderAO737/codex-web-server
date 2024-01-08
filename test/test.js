@@ -1,4 +1,4 @@
-const webserver = require('../index');
+const webserver = require('./release/compressed-index.js');
 
 const server = new webserver(true);
 
